@@ -1,5 +1,5 @@
 # Food-Delivery Application using MERN Stack
-The purpose of this project is to develop a food delivery application using the MERN (MongoDB, Express, React, Node.js) stack. The application allows users to browse menu options, order food items, and make payments securely. It is designed to be user-friendly, featuring a clean and modern interface to enhance the overall user experience.
+The purpose of this project is to develop a food delivery application using MERN (MongoDB, Express, React, Node.js) stack. The application allows users to browse menu options, order food items, and make payments securely. It is designed to be user-friendly, featuring a clean and modern interface to enhance the overall user experience!
 
 
 ## Tech-Stack
@@ -19,7 +19,7 @@ The purpose of this project is to develop a food delivery application using the 
 - User Authentication: Secure user registration and login with JWT.
 - Menu Browsing: Explore menu options from various restaurants.
 - Food Ordering: Easily select and order food items.
-- Payment Integration: Secure payment processing for orders.
+- Payment Gateway: Secure payment processing for orders.
 - Order Tracking: Real-time tracking of order status from preparation to delivery.
 - Restaurant Management: Manage menus, food items, and orders for restaurant owners.
 - Responsive Design: Optimized for both desktop and mobile devices.
